@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/activity_cart.xml" value="0.3640625" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/activity_item_det.xml" value="0.3640625" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/activity_items.xml" value="0.25925925925925924" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/activity_main.xml" value="0.3640625" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/custom_cart.xml" value="0.325" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/custom_category.xml" value="0.325" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/custom_rec_image.xml" value="0.325" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/custom_rec_items.xml" value="0.325" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/fragment_cart.xml" value="0.3640625" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/fragment_home.xml" value="0.3640625" />
+        <entry key="..\:/ANDROID/Matrial/irbed 10/Irbed 1/app/src/main/res/layout/fragment_more.xml" value="0.3640625" />
+        <entry key="..\:/ANDROID/irbed 10/Irbed 1/app/src/main/res/layout/custom_cart.xml" value="0.34601449275362317" />
+        <entry key="..\:/ANDROID/irbed 10/Irbed 1/app/src/main/res/layout/custom_category.xml" value="0.34601449275362317" />
+        <entry key="..\:/ANDROID/irbed 10/Irbed 1/app/src/main/res/layout/custom_rec_image.xml" value="0.3640625" />
+        <entry key="..\:/ANDROID/irbed 10/Irbed 1/app/src/main/res/layout/custom_rec_items.xml" value="0.3640625" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/drawable/text_view_background.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_cart.xml" value="0.152" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_item_det.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_items.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_notification.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_select.xml" value="0.16" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_signup.xml" value="0.176" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/activity_splash.xml" value="0.152" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/custom_cart.xml" value="0.264" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/custom_category.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/custom_rec_image.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/custom_rec_items.xml" value="0.176" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/custom_rec_notification.xml" value="0.264" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/cutom_image.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/fragment_cart.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/fragment_home.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/layout/fragment_more.xml" value="0.152" />
+        <entry key="..\:/Users/Anas/Desktop/project/Irbed 1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

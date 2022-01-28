@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/view"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/image"
+        app:layout_constraintTop_toTopOf="parent"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <TextView
+        android:id="@+id/name"
+        app:layout_constraintTop_toBottomOf="@id/image"
+        android:layout_width="match_parent"
+        android:textSize="15sp"
+        android:textColor="@color/text_color"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView
+        android:id="@+id/price"
+        app:layout_constraintTop_toBottomOf="@id/name"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/currency"
+        android:layout_width="0dp"
+        android:textSize="15sp"
+        android:textColor="@color/text_color"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/currency"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/price"
+
+        app:layout_constraintTop_toBottomOf="@id/name"
+        android:layout_width="0dp"
+        android:textSize="15sp"
+        android:textColor="@color/text_color"
+        android:layout_height="wrap_content"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
